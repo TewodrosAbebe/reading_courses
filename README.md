@@ -1,4 +1,4 @@
-# Template for the reading course
+# Machine Learning for Language and Vision
 
 This is a repository contains a set file structure for submitting your course-work.
 
