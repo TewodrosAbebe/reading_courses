@@ -1,4 +1,4 @@
-# ROM: Representations of Meaning
+# APL: Action, Perception and Language
 
 This is a repository contains a set file structure for submitting your course-work.
 
