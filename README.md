@@ -1,4 +1,4 @@
-# ROM: Representations of Meaning
+# Template for the reading course
 
 This is a repository contains a set file structure for submitting your course-work.
 
