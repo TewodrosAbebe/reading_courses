@@ -84,7 +84,7 @@ https://github.com/mmehdig/vqa_tutorial_vtc
 4. Project GuessWho web interface + preprocessing face attribute dataset (Project with Anna Lindahl):
 https://github.com/mmehdig/guesswho_lfw
 
-### Reports
+### Reports / presentation
 5. Literature review for reading group:
 the working document:
 https://docs.google.com/document/d/1fwcOPDESrCE8LCJjNc3z-w_IO0aWq-dJDv2QvkIphyY/edit?usp=sharing
@@ -92,3 +92,6 @@ https://docs.google.com/document/d/1fwcOPDESrCE8LCJjNc3z-w_IO0aWq-dJDv2QvkIphyY/
 - the final cited papers in the meeting:
 https://docs.google.com/document/d/1MNzmOq0yAzmNaKSs5RJ6BcOiqEZdVLu5VzbCdg4SktQ/edit?usp=sharing
 
+6. Reading group discussions:
+  * J. Y. Chai, R. Fang, C. Liu, and L. She. Collaborative language grounding toward situated human-robot dialogue. AI Magazine, 37(4), 2016. (recommended by Mehdi and Simon) 2018-02-09
+  * J. Johnson, B. Hariharan, L. van der Maaten, J. Hoffman, F. Li, C. L. Zitnick, and R. B. Girshick. Inferring and executing programs for visual reasoning. CoRR, abs/1705.03633(n):n, 2017. link (recommended by Mehdi)
